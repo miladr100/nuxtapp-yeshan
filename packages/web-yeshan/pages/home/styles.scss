@@ -1,0 +1,31 @@
+.carrousel {
+  &__description {
+    &-top {
+      color: #fff;
+      margin-left: 64px;
+      margin-top: 32px;
+    }
+
+    &-bottom {
+      margin-left: 64px;
+      margin-top: 12px;
+      color: #fff;
+    }
+  }
+
+  &__title {
+    font-size: 4rem;
+    margin-top: 32px;
+    color: #fff;
+  }
+
+  &__button {
+    &-solutions {
+      margin-left: 64px;
+    }
+
+    &-works {
+      margin-left: 12px;
+    }
+  }
+}

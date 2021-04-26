@@ -1,0 +1,5 @@
+@import "../assets/typography.scss";
+
+.global-style {
+    @extend %font-family-lato;
+}

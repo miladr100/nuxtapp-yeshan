@@ -1,0 +1,8 @@
+.y-toolbar {
+  background-color: transparent !important;
+
+  &__buttons {
+    display: flex;
+    flex-direction: row;
+  }
+}
